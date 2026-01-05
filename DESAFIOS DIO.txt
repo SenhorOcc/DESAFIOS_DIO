@@ -1,1 +1,0 @@
-Nesse repositório está todos os Desafios propostos pelo curso da DIO Santander 2025 - Ciência de Dados com Python
