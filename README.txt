@@ -1,6 +1,6 @@
 ## Nesse repositório está todos os Desafios propostos pelo curso da DIO Santander 2025 - Ciência de Dados com Python
 
-
+--------------------------------------
 Dashboard de Vendas – Excel
 
 📊 Sobre o Projeto
@@ -50,3 +50,4 @@ de navegar entre as abas em configuração -> avançado -> opção de exibição
 ✅ Conclusão
 
 Este projeto demonstra como o Excel pode ser utilizado como uma ferramenta eficiente para análise de dados e visualização de informações, mesmo em cenários simples, contribuindo para uma melhor compreensão do desempenho de vendas.
+
