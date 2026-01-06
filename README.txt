@@ -1,6 +1,19 @@
 ## Nesse repositório está todos os Desafios propostos pelo curso da DIO Santander 2025 - Ciência de Dados com Python
 
 --------------------------------------
+
+ETL com python
+
+Este projeto tem como objetivo demonstrar o uso de IA Generativa integrada a um pipeline de ETL (Extract, Transform, Load)** utilizando Python.
+
+Inicialmente, na etapa de Extração, os dados de usuários foram obtidos a partir de uma planilha do Excel. Como a API original do desafio não estava disponível, os dados dos usuários foram previamente gerados com o auxílio de uma IA e armazenados no arquivo `.xlsx`.
+
+Na etapa de Transformação, os nomes dos usuários extraídos do Excel são processados e utilizados como entrada para um modelo de linguagem. Para isso, foi utilizada a API da GROQ, por meio da biblioteca LangChain, permitindo gerar respostas personalizadas para cada usuário. (não usei o gpt por ser pago)
+
+Por fim, na etapa de Carregamento, os resultados gerados pela IA são organizados e exibidos, concluindo o fluxo do pipeline. Todo o processo demonstra, de forma prática, como integrar fontes de dados estruturados com modelos de IA generativa dentro de um fluxo de ETL.
+
+--------------------------------------
+
 Dashboard de Vendas – Excel
 
 📊 Sobre o Projeto
@@ -50,4 +63,5 @@ de navegar entre as abas em configuração -> avançado -> opção de exibição
 ✅ Conclusão
 
 Este projeto demonstra como o Excel pode ser utilizado como uma ferramenta eficiente para análise de dados e visualização de informações, mesmo em cenários simples, contribuindo para uma melhor compreensão do desempenho de vendas.
+
 
